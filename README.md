@@ -1,4 +1,4 @@
-# RestoQR
+# Scan'N'Serve
 
 Restaurant ordering by QR code: a menu for customers and a back office for staff.
 

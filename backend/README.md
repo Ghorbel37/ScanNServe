@@ -1,8 +1,8 @@
-# RestoQR-Backend
+# Scan'N'Serve backend
 
-Spring Boot REST API for **RestoQR**, a restaurant ordering app based on QR codes. Each table has its own QR code: customers scan it to open the menu, fill a cart and place an order, while staff manage the menu, tables, orders and accounts from a back office.
+Spring Boot REST API for **Scan'N'Serve**, a restaurant ordering app based on QR codes. Each table has its own QR code: customers scan it to open the menu, fill a cart and place an order, while staff manage the menu, tables, orders and accounts from a back office.
 
-Part of the [RestoQR](../README.md) monorepo. The web app is in [`frontend/`](../frontend/).
+Part of the [Scan'N'Serve](../README.md) monorepo. The web app is in [`frontend/`](../frontend/).
 
 ## Tech stack
 
