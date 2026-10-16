@@ -1,10 +1,10 @@
-# Scan'N'Serve frontend
+# ScanNServe frontend
 
-Angular web app for **Scan'N'Serve**: a QR-code menu for customers and a back office for staff.
+Angular web app for **ScanNServe**: a QR-code menu for customers and a back office for staff.
 
 Each table has its own QR code. Customers scan it to open the menu for that table, fill a cart and place an order. Staff log in to manage the menu, accounts, tables and QR codes.
 
-Part of the [Scan'N'Serve](../README.md) monorepo. The API is in [`backend/`](../backend/).
+Part of the [ScanNServe](../README.md) monorepo. The API is in [`backend/`](../backend/).
 
 ## Tech stack
 
