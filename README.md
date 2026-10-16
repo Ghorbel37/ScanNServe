@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/icon.svg" width="96" height="96" alt=""></p>
+
 # ScanNServe
 
 Restaurant ordering by QR code: a menu for customers and a back office for staff.
